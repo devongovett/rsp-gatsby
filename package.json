@@ -14,14 +14,14 @@
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\" && exit 1"
   },
   "dependencies": {
-    "@adobe/react-spectrum": "nightly",
-    "@spectrum-icons/illustrations": "nightly",
-    "gatsby": "^2.24.50",
-    "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "@adobe/react-spectrum": "3.9.0",
+    "@spectrum-icons/illustrations": "3.2.1",
+    "gatsby": "^3.1.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "prettier": "2.1.0"
+    "prettier": "2.2.1"
   },
   "repository": {
     "type": "git",
